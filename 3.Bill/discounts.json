@@ -1,0 +1,7 @@
+{
+  "isEmployee": 0.3,
+  "isAffiliate": 0.1,
+  "isOver2Years": 0.05,
+  "bigBillDiscountAmount": 100,
+  "bigBillDiscount": 5
+}
