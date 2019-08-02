@@ -1,5 +1,15 @@
 # check
 
+## Install:
+```
+  yarn
+```
+
+## Test coverage:
+```
+  yarn test-coverage
+```
+
 ## Assignment 1:
 
 #### use example:

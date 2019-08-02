@@ -6,12 +6,14 @@
   "scripts": {
     "test": "node_modules/.bin/mocha */index.test.js",
     "test1": "node_modules/.bin/mocha ./1.Data_Store_and_Load/index.test.js",
-    "test3": "node_modules/.bin/mocha ./3.Bill/index.test.js"
+    "test3": "node_modules/.bin/mocha ./3.Bill/index.test.js",
+    "test-coverage": "nyc npm run test"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.0"
+    "mocha": "^6.2.0",
+    "nyc": "^14.1.1"
   }
 }

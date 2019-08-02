@@ -48,7 +48,7 @@ class Bill {
 
 module.exports = Bill;
 
-const bill = new Bill();
-bill.isEmployee();
-bill.isAffiliate();
-console.log(bill.findNetPayable(250, 30));
+// const bill = new Bill();
+// bill.isEmployee();
+// bill.isAffiliate();
+// console.log(bill.findNetPayable(250, 30));
